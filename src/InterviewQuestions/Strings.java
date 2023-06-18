@@ -19,7 +19,7 @@ public class Strings {
 		System.out.println(s4 == s5); // true, both variables point to the same object in memory
 		System.out.println(s5 == s6); // false, s6 is a different object in memory
 		System.out.println(s4.equals(s5)); // true, both variables contain the same string of characters
-		System.out.println(s1.equals(s6)); // true, both variables contain the same string of characters
+		System.out.println(s1.equals(s6)); // false, both variables contain the same string of characters
 
 
 	}
