@@ -41,3 +41,4 @@ public class FrequencyOfCharInString {
 	}
 
 }
+//Change in the freq list
